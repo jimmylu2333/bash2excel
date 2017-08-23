@@ -1,0 +1,23 @@
+{
+  "id": [
+    "result",
+    "returncode"
+  ],
+  "1": [
+    "1",
+    0
+  ],
+  "2": [
+    "2",
+    "2",
+    0
+  ],
+  "3": [
+    "sh/3.sh: line 1: eche: command not found",
+    127
+  ],
+  "4": [
+    "sh/4.sh: line 2: eche: command not found",
+    127
+  ]
+}
